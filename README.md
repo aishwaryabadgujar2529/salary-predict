@@ -1,0 +1,2 @@
+# salary-predict
+easy
